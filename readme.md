@@ -5,6 +5,6 @@
 [![NodeJS 22.2.0](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![wakatime](https://wakatime.com/badge/user/018e49f4-2cab-4a73-b6fb-af3ff4c779cd/project/858462e0-e2dd-45d5-9613-c9f37af494b1.svg)](https://wakatime.com/badge/user/018e49f4-2cab-4a73-b6fb-af3ff4c779cd/project/858462e0-e2dd-45d5-9613-c9f37af494b1)
 
-[DIEIN-BOT](https://github.com/DIE-IN/DIEIN-BOT) by [DIE-IN](https://github.com/DIE-IN) is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
+[DIEIN-BOT](https://github.com/DIE-IN/DIEIN-BOT) by [chocolily](https://github.com/choco-lily) is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
 
 [![](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1)![](https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1)![](https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1)![](https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1)](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
